@@ -21,6 +21,7 @@ The EIN and Name columns are dropped since they will not be factors in determini
 
 
 The features below may not be instramental in determining business success and can also be removed.
+
     SPECIAL_CONSIDERATIONS       2
     AFFILIATION                  6
 
